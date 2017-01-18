@@ -1,7 +1,11 @@
-https://csszengarden.com
+Useful websites:
 
-https://colours.neilorangepeel.com
+* https://csszengarden.com
 
-https://colourpicker.com
+* https://colours.neilorangepeel.com
 
-https://specificity.keegan.st
+* https://colourpicker.com
+
+* https://specificity.keegan.st
+
+* https://cssfontstack.com
