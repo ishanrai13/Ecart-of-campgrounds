@@ -7,6 +7,16 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
    </head>
    <body>
+
+   /*<style media="screen">
+      .dropdown-menu {
+   left: 50%;
+   right: auto;
+   text-align: left;
+   transform: translate(-50%, 0);
+   }
+   </style>*/
+
    <h2 class="text-center">Glyphs</h2>
 
     <div class="text-center">
@@ -22,7 +32,7 @@
    <div class="dropdown text-center">
        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
        <span class="caret"></span></button>
-       <ul class="dropdown-menu">
+       <ul class="dropdown-menu text-center">
          <li><a href="#">HTML</a></li>
          <li><a href="#">CSS</a></li>
          <li><a href="#">JavaScript</a></li>
@@ -36,14 +46,63 @@
       Dropdown v2
       <span class="caret"></span>
     </button>
-    <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+      <li class="dropdown-header">A header</li>
+      <li role="separator" class="divider"></li>
       <li><a href="#">Action</a></li>
       <li><a href="#">Another action</a></li>
-      <li><a href="#">Something else here</a></li>
-      <li role="separator" class="divider"></li>
+      <li class="disabled"><a href="#">Something else here</a></li>
       <li><a href="#">Separated link</a></li>
     </ul>
   </div>
+
+  <h2 class="text-center">Buttons</h2>
+
+  <div class="btn-group text-center" role="group" aria-label="...">
+    <button type="button" class="btn btn-default btn-lg">Left</button>
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-success">Success</button>
+    <button type="button" class="btn btn-danger">Danger</button>
+    <button type="button" class="btn btn-default btn-sm">Middle</button>
+    <button type="button" class="btn btn-info">Info</button>
+    <button type="button" class="btn btn-warting">Warning</button>
+    <button type="button" class="btn btn-link">Link</button>
+    <button type="button" class="btn btn-default btn-xs">Right</button>
+  </div>
+
+  <h2 class="text-center">Inputs</h2>
+
+  <div class="input-group">
+  <span class="input-group-addon" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+</div>
+
+<div class="input-group">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2">@example.com</span>
+</div>
+
+<div class="input-group">
+  <span class="input-group-addon">$</span>
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+  <span class="input-group-addon">.00</span>
+</div>
+
+<label for="basic-url">Your vanity URL</label>
+<div class="input-group">
+  <span class="input-group-addon" id="basic-addon3">https://example.com/users/</span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+</div>
+
+<h2 class="text-center">Navs</h2>
+
+<p>To rotate vertical just use '.nav-stacked' class.</p>
+
+<ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation" class="disabled"><a href="#">Messages</a></li>
+</ul>
 
 
    </body>
