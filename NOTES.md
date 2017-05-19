@@ -11,3 +11,5 @@
 * https://cssfontstack.com
 
 * https://unsplash.com - free pictures
+
+* https://fortawesome.github.io - icons and fonts
