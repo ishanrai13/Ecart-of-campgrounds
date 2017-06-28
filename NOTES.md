@@ -13,3 +13,5 @@
 * https://unsplash.com - free pictures
 
 * https://fortawesome.github.io - icons and fonts
+
+* https://uigradients.com - nice gradients
