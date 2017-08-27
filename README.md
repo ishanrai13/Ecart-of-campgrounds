@@ -6,7 +6,7 @@ by Colt Steele
 *   [Slides](https://webdev.slides.com/coltsteele/)
 
 ## The Major Projects
-*   [Section 03 First Page](https://rawgit.com/paulcarroty/the-web-developer-bootcamp/blob/master/Section%2003%20-%20Introduction%20to%20HTML/firstPage.html)
+*   [Section 03 First Page](https://rawgit.com/paulcarroty/the-web-developer-bootcamp/master/Section%2003%20-%20Introduction%20to%20HTML/firstPage.html)
 *   [Section 04 Chart](https://htmlpreview.github.io/?https://github.com/paulcarroty/the-web-developer-bootcamp/blob/master/Section%2004%20-%20Intermediate%20HTML/ex3_chart.html)
 *   [Section 04 Exercise](https://htmlpreview.github.io/?https://github.com/paulcarroty/the-web-developer-bootcamp/blob/master/Section%2004%20-%20Intermediate%20HTML/ex4.html)
 *   [Section 05 Selectors Exercise](https://htmlpreview.github.io/?https://github.com/paulcarroty/the-web-developer-bootcamp/blob/master/Section%2005%20-%20Introduction%20to%20CSS/selectorsExercise.html)
