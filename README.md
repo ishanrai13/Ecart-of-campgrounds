@@ -4,6 +4,7 @@ by Colt Steele
 ## Sources
 *   [Udemy](https://www.udemy.com/the-web-developer-bootcamp/)
 *   [Slides](https://webdev.slides.com/coltsteele/)
+*   [C9 workspace](https://ide.c9.io/learnwithcolt/webdevbootcamp)
 
 ## The Major Projects
 *   [Section 03 First Page](https://rawgit.com/paulcarroty/the-web-developer-bootcamp/master/Section%2003%20-%20Introduction%20to%20HTML/firstPage.html)
