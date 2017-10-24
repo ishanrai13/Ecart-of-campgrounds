@@ -15,3 +15,7 @@
 * https://fortawesome.github.io - icons and fonts
 
 * https://uigradients.com - nice gradients
+
+# Useful tools
+
+* https://www.npmjs.com/package/faker - TONS of fake data
